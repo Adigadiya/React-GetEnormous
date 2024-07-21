@@ -1,7 +1,7 @@
-### Project: React-GetEnormous
+### GetEnormous
 
 *Description:*
-React-GetEnormous is a cutting-edge web application designed to cater to Fitness Freaks. This project focuses on delivering an efficient and highly performant user experience by leveraging modern web development tools and practices.
+GetEnormous is a cutting-edge web application designed to cater to Fitness Freaks. This project focuses on delivering an efficient and highly performant user experience by leveraging modern web development tools and practices.
 
 *Key Features and Technical details:*
 - *React*: Utilized for building interactive and dynamic user interfaces.State Management using React's Context API along with 15+ custom React components
